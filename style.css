@@ -36,7 +36,29 @@ ul {
 li {
 	display: inline;
 	padding: 5px;
-
+	text-decoration: none;
+}
+.nav-wrapper {
+	padding: 15px;
+	vertical-align: right;
+}
+.nav-list {
+	padding: 5px;
+}
+.nav-button {
+	border-radius: 9px;
+	font-family: 'Oswald', sans-serif;
+	color: #fff;
+	font-size: 100%;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 3px;
+}
+.nav-button:hover {
+	border: solid rgb(206, 33, 96) 3px;
 }
 .dev {
 	max-width: 700px;
