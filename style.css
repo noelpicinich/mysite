@@ -38,19 +38,19 @@ li {
 	padding: 5px;
 
 }
-.nav {
+.dev {
 	max-width: 700px;
 	padding-bottom: 20px;
 	margin: 0 auto;
 	text-align: center;
 
 }
-.nav h1 {
+.dev h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
 	font-size: 500%;
 }
-.nav h4 {
+.dev h4 {
 	font-family: 'Courgette';
 	font-style: italic;
 	color: #fff;
