@@ -40,10 +40,12 @@ li {
 }
 .nav-wrapper {
 	padding: 15px;
-	vertical-align: right;
+	width: 500px;
+	align-self: right;
 }
 .nav-list {
-	padding: 5px;
+	padding-right: 25px;
+	padding-top: 10px;
 }
 .nav-button {
 	border-radius: 9px;
